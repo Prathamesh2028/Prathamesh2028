@@ -8,19 +8,16 @@
 
 <h2 align="left">About me</h2>
 
-
-###
-
-<h2 align="left">I code with</h2>
-
 <p align="left">
-  ✨ Creating bugs since 2022<br>
-  📚 I'm currently learning TypeScript and improving my backend architecture skills<br>
-  🎯 Goals: Build scalable full-stack apps and contribute to open source<br>
-  🎲 Fun fact: I started coding because I wanted to build a game... and never finished it 😅
+  ✨ Writing code and solving problems daily<br>
+  📚 Currently focused on improving backend and frontend skills<br>
+  🎯 Goal: Build efficient and user-friendly full-stack applications<br>
+  🎲 Fun fact: I learn a lot from debugging tricky issues!
 </p>
 
+
 ###
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
